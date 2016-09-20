@@ -1,0 +1,2 @@
+# EasyBar
+Chart creator
